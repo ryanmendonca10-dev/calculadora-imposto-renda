@@ -76,11 +76,6 @@ Este projeto faz parte do meu processo de aprendizado em **Programação Orienta
 
 ---
 
-## 📬 Contribuições
 
-Feedbacks, sugestões e melhorias são muito bem-vindos!  
-Fique à vontade para abrir issues ou contribuir com pull requests.
-
----
 
 
