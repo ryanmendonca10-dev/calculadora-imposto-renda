@@ -83,7 +83,4 @@ Fique à vontade para abrir issues ou contribuir com pull requests.
 
 ---
 
-## 📄 Licença
 
-Este projeto está licenciado sob a **MIT License**.  
-Você pode utilizá-lo e modificá-lo livremente. ✔️
