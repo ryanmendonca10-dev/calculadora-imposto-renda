@@ -19,7 +19,7 @@ Este projeto é uma aplicação em **Java** que simula o cálculo de **imposto d
   - Pessoa Física
   - Pessoa Jurídica
 - Cálculo de imposto:
-  - **Pessoa Física**: 15% ou 25%, com 50% de desconto em despesas médicas
+  - **Pessoa Física**: 15% ou 25%(dependendo da Renda Anual), com 50% de desconto em despesas médicas
   - **Pessoa Jurídica**: 14% ou 16%, dependendo da quantidade de funcionários
 - Exibição:
   - Imposto individual por contribuinte
