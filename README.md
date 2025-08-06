@@ -44,7 +44,7 @@ app/
 ## 💻 Tecnologias Utilizadas
 
 - Java 17+
-- IntelliJ IDEA ou Eclipse
+- IntelliJ IDEA 
 
 ---
 
